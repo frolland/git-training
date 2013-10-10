@@ -13,3 +13,4 @@ Technologies web :
 - Servlet & JSP
 - Wicket
 - Struts2
+Ajout de JSF dans les technologies web
